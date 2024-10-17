@@ -6,11 +6,6 @@ This project contains API and UI tests written using Playwright. This guide prov
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone <URL of your repository>
-    cd <name of your repository directory>
-    ```
-
 2. **Install dependencies:**
 
     Make sure you have Node.js installed. Then run:
