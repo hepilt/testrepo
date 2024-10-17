@@ -1,0 +1,17 @@
+{
+  "name": "sqli_test_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.5",
+    "@types/randomstring": "^1.3.0",
+    "randomstring": "^1.3.0"
+  }
+}
